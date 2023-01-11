@@ -1,0 +1,28 @@
+{
+  "packages": [
+    {
+      "id": 123,
+      "title": "Package One",
+      "owner": "Owner One",
+      "status": "canceled",
+      "description": "This is the description for package one.",
+      "created": "January 28, 2022"
+    },
+    {
+      "id": 456,
+      "title": "Package Two",
+      "owner": "Owner Two",
+      "status": "success",
+      "description": "This is the description for package two.",
+      "created": "March 14, 2022"
+    },
+    {
+      "id": 789,
+      "title": "Package Three",
+      "owner": "Owner Three",
+      "status": "failed",
+      "description": "This is the description for package three.",
+      "created": "July 22, 2022"
+    }
+  ]
+}
